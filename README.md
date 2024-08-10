@@ -1,3 +1,6 @@
+ALl code taken from https://github.com/Manju1392k
+
+
 # ℹ️ HeathlyLife
 
 HealthyLife is a Website for Advertization of Hospital.This Website Contain all information about Hospital like Staff,DoctorsName,Specialist Doctor list and It is 
