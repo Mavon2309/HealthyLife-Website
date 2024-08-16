@@ -1,4 +1,4 @@
-ALl code taken from https://github.com/Manju1392k
+Home page code taken from https://github.com/Manju1392k
 
 
 # ℹ️ HeathlyLife
